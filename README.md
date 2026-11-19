@@ -29,7 +29,7 @@
 ### 一键安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Dr1ll1/bailian-usage-monitor/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/1220H/bailian-usage-monitor/main/install.sh | bash
 ```
 
 这个脚本会依次完成：
@@ -41,7 +41,7 @@ curl -fsSL https://raw.githubusercontent.com/Dr1ll1/bailian-usage-monitor/main/i
 
 ```bash
 # 指定模型，同时把终端版监控放到桌面
-curl -fsSL https://raw.githubusercontent.com/Dr1ll1/bailian-usage-monitor/main/install.sh | MODEL=qwen-plus WITH_TERMINAL=1 bash
+curl -fsSL https://raw.githubusercontent.com/1220H/bailian-usage-monitor/main/install.sh | MODEL=qwen-plus WITH_TERMINAL=1 bash
 ```
 
 ### 手动安装

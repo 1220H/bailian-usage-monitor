@@ -1,11 +1,11 @@
 #!/bin/bash
 # 一键安装：百炼用量圆环（SwiftBar 菜单栏插件）
-#   curl -fsSL https://raw.githubusercontent.com/Dr1ll1/bailian-usage-monitor/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/1220H/bailian-usage-monitor/main/install.sh | bash
 # 可选环境变量：
 #   MODEL=qwen-plus        指定要显示的模型（默认自动选最近 7 天用得最多的）
 #   WITH_TERMINAL=1        同时把终端版监控放到桌面
 set -e
-REPO_RAW="https://raw.githubusercontent.com/Dr1ll1/bailian-usage-monitor/main"
+REPO_RAW="https://raw.githubusercontent.com/1220H/bailian-usage-monitor/main"
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" 2>/dev/null && pwd || echo "")"
 say() { printf '\033[1;34m==>\033[0m %s\n' "$*"; }
 warn() { printf '\033[1;33m!!\033[0m %s\n' "$*"; }

@@ -10,7 +10,7 @@ Rings: 0%..100% in 5% steps, light + dark menu bar variants, 36px @144dpi (= 18p
 import base64, io, math, pathlib
 from PIL import Image, ImageDraw
 
-REPO_URL = "https://github.com/Dr1ll1/bailian-usage-monitor"
+REPO_URL = "https://github.com/1220H/bailian-usage-monitor"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 S=8; PX=36; W=PX*S
 def color(p):

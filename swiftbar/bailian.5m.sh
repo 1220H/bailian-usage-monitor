@@ -3,7 +3,7 @@
 # <xbar.version>v1.0</xbar.version>
 # <xbar.desc>在 macOS 菜单栏用圆环显示阿里云百炼模型的免费额度余量，点开查看今天 / 最近 7 天的 token 用量。依赖官方百炼 CLI（bl）。</xbar.desc>
 # <xbar.dependencies>bl (Alibaba Cloud Model Studio CLI)</xbar.dependencies>
-# <xbar.abouturl>https://github.com/Dr1ll1/bailian-usage-monitor</xbar.abouturl>
+# <xbar.abouturl>https://github.com/1220H/bailian-usage-monitor</xbar.abouturl>
 # <swiftbar.hideRunInTerminal>true</swiftbar.hideRunInTerminal>
 # <swiftbar.hideDisablePlugin>true</swiftbar.hideDisablePlugin>
 
