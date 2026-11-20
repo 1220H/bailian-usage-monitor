@@ -94,3 +94,9 @@ A SwiftBar plugin that shows your **Alibaba Cloud Model Studio (Bailian)** free-
 ## License
 
 MIT
+
+---
+
+**Credits:** An idea of mine, turned into a working tool and refined together with Claude (Anthropic's AI assistant).
+
+**致谢：** 这是我把自己的想法交给 Claude（Anthropic 的 AI 助手）之后，一起完善出来的小工具。
